@@ -9,7 +9,7 @@ main.m
 includes the basic script for parameter fitting.
 
 # References
-If you use this programm in your research, please cite reference 1.
+If you use this programm in your research, please cite reference [^1].
 
 # Contact
 If you have any questions fell free to contact me nick.wulbusch@uni-oldenburg.de
@@ -30,4 +30,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-1 Wulbusch, N.; Roden, R.; Chernov, A. & Blau, M.: "Using a one-dimensional finite-element approximation of Webster's horn equation to estimate individual ear canal acoustic transfer from input impedances", submitted to: JASA, 2023
+[^1]: Wulbusch, N.; Roden, R.; Chernov, A. & Blau, M.: "Using a one-dimensional finite-element approximation of Webster's horn equation to estimate individual ear canal acoustic transfer from input impedances", submitted to: JASA, 2023
