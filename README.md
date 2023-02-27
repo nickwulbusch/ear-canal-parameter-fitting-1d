@@ -14,7 +14,7 @@ If you use this programm in your research, please cite reference [^1].
 # Contact
 If you have any questions fell free to contact me nick.wulbusch@uni-oldenburg.de
 
-License
+# License
 Copyright (C) 2023 Nick Wulbusch
 
 This program is free software: you can redistribute it and/or modify
