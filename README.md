@@ -1,4 +1,6 @@
-# ear-canal-parameter-fitting-1d
+# Parameter fitting for one-dimensional horn equation
+https://zenodo.org/communities/sfb-1330-hearing-acoustics (DOI)
+
 Estimate transfer impedance, area function and eardrum impedance from input impedance using the method described in [1].
 
 # Usage
