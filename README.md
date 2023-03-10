@@ -8,7 +8,7 @@ The file
 
 main.m
 
-includes the basic script for parameter fitting.
+includes the basic script for parameter fitting. Example data can be found in the folder example_data. Settings for the optimization can be changed in setParameterFittingOptions.m.
 
 # References
 If you use this programm in your research, please cite reference [^1].
