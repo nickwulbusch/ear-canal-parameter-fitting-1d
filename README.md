@@ -1,6 +1,4 @@
 # Parameter fitting for one-dimensional horn equation
-See also https://zenodo.org/communities/sfb-1330-hearing-acoustics
-
 Estimate transfer impedance, area function and eardrum impedance from input impedance using the method described in [1].
 
 # Usage
@@ -15,7 +13,7 @@ If you use this programm in your research, please cite reference [^1].
 
 # Contact
 If you have any questions fell free to contact me nick.wulbusch@uni-oldenburg.de
-
+See also: https://zenodo.org/communities/sfb-1330-hearing-acoustics
 # License
 Copyright (C) 2023 Nick Wulbusch
 
