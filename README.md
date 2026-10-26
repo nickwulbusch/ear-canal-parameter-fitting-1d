@@ -9,10 +9,10 @@ main.m
 includes the basic script for parameter fitting. Example data can be found in the folder example_data. Settings for the optimization can be changed in setParameterFittingOptions.m.
 
 # References
-If you use this programm in your research, please cite reference [^1].
+If you use this program in your research, please cite reference [^1].
 
 # Contact
-If you have any questions fell free to contact me nick.wulbusch@uni-oldenburg.de
+If you have any questions feel free to contact me nick.wulbusch@uni-oldenburg.de
 See also: https://zenodo.org/communities/sfb-1330-hearing-acoustics
 # License
 Copyright (C) 2023 Nick Wulbusch
