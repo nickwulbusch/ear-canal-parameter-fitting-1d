@@ -30,4 +30,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-[^1]: Wulbusch, N.; Roden, R.; Chernov, A. & Blau, M.: "Using a one-dimensional finite-element approximation of Webster's horn equation to estimate individual ear canal acoustic transfer from input impedances", submitted to: JASA, 2023
+[^1]: Wulbusch, N.; Roden, R.; Chernov, A. & Blau, M.: "Using a one-dimensional finite-element approximation of Webster's horn equation to estimate individual ear canal acoustic transfer from input impedances", J. Acoust. Soc. Am. 154, 2826-2837 (2023)
